@@ -1,5 +1,7 @@
 theme: jekyll-theme-merlot
 
+baseurl: /social-coding
+
 map:
  - title: Home
    path: /index.md
