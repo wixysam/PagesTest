@@ -1,5 +1,5 @@
-<nav style="display:inline">
-  <ul>
+<nav>
+  <ul style="margin: 50; padding: 10; width: 25%; position: fixed; height: 100%; overflow: auto;">
   {% for item in site.data.navigation %}
     <li><a href="{{site.baseurl}}{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}>
       {{ item.name }}
