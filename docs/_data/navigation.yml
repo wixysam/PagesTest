@@ -1,6 +1,6 @@
 - link: /index.html
-  name: Home
-- link: /test1.html
-  name: Test One
-- link: /test2.html
-  name: Test Two
+  name: Exodus
+- link: /how-it-works.html
+  name: How It Works
+- link: /bazel-intro.html
+  name: Bazel Intro
