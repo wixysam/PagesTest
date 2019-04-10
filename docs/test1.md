@@ -1,6 +1,5 @@
 ---
 
-layout: ots
 title: Test One
 
 ---
