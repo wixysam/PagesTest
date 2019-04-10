@@ -1,0 +1,6 @@
+- link: /index/
+  name: Home
+- link: /test1/
+  name: Test One
+- link: /test2
+  name: Test Two
