@@ -1,6 +1,6 @@
-- link: /index/
+- link: /index.html
   name: Home
-- link: /test1/
+- link: /test1.html
   name: Test One
-- link: /test2
+- link: /test2.html
   name: Test Two
