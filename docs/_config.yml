@@ -1,5 +1,4 @@
 theme: jekyll-theme-merlot
-baseurl: /docs
 
 map:
  - title: Home
