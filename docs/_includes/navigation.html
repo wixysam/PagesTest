@@ -1,4 +1,4 @@
-<nav>
+<nav style="display:inline">
   <ul>
   {% for item in site.data.navigation %}
     <li><a href="{{site.baseurl}}{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}>
