@@ -1,0 +1,11 @@
+theme: jekyll-theme-slate
+baseurl: /docs
+
+map:
+ - title: Home
+   path: /index.md
+   caption: Index
+ - title: Test One
+   path: /test1.md
+ - title: Test Two
+   path: /test2.md
