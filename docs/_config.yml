@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 
 baseurl: /PagesTest
-logo: /assets/img/logo.png
+logo: /assets/img/logo-white.png
+logoDark: /assets/img/logo-black.png
 heading: Test Heading
