@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 
 baseurl: /PagesTest
-title: Test Title
+logo: /assets/img/logo.png
 heading: Test Heading
